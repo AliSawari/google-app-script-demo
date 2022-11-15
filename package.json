@@ -2,9 +2,9 @@
   "name": "google-app-script-demo-frontend",
   "version": "1.0.0",
   "description": "a small demo app for Google App Script Frontend",
-  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build ./index.html --no-content-hash --no-source-maps",
+    "serve": "parcel serve ./index.html"
   },
   "repository": {
     "type": "git",
