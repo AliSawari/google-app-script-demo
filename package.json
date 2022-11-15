@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "a small demo app for Google App Script Frontend",
   "scripts": {
-    "build": "parcel build ./index.html --no-content-hash --no-source-maps",
-    "serve": "parcel serve ./index.html"
+    "build": "parcel build public/index.html --no-content-hash --no-source-maps",
+    "serve": "parcel serve public/index.html"
   },
   "repository": {
     "type": "git",
