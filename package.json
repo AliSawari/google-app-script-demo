@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AliSawari/google-app-script-demo-frontend/issues"
   },
-  "homepage": "https://github.com/AliSawari/google-app-script-demo-frontend#readme"
+  "homepage": "https://github.com/AliSawari/google-app-script-demo-frontend#readme",
+  "dependencies": {
+    "parcel": "^2.8.0"
+  }
 }
