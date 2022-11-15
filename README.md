@@ -1,2 +1,2 @@
-# google-app-script-demo-frontend
-a small demo app for Google App Script Frontend
+# google-app-script-demo
+a small demo app for Google App Script 
